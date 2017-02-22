@@ -1,0 +1,16 @@
+c:\users\bway\documents\visual studio 2015\Projects\Gather Game\Gather Game\bin\Debug\Gather Game.exe.config
+c:\users\bway\documents\visual studio 2015\Projects\Gather Game\Gather Game\bin\Debug\Gather Game.exe
+c:\users\bway\documents\visual studio 2015\Projects\Gather Game\Gather Game\bin\Debug\Gather Game.pdb
+c:\users\bway\documents\visual studio 2015\Projects\Gather Game\Gather Game\bin\Debug\Gather Game.xml
+c:\users\bway\documents\visual studio 2015\Projects\Gather Game\Gather Game\obj\Debug\Gather Game.vbprojResolveAssemblyReference.cache
+c:\users\bway\documents\visual studio 2015\Projects\Gather Game\Gather Game\obj\Debug\Gather_Game.Resources.resources
+c:\users\bway\documents\visual studio 2015\Projects\Gather Game\Gather Game\obj\Debug\Gather Game.vbproj.GenerateResource.Cache
+c:\users\bway\documents\visual studio 2015\Projects\Gather Game\Gather Game\obj\Debug\Gather Game.exe
+c:\users\bway\documents\visual studio 2015\Projects\Gather Game\Gather Game\obj\Debug\Gather Game.xml
+c:\users\bway\documents\visual studio 2015\Projects\Gather Game\Gather Game\obj\Debug\Gather Game.pdb
+C:\Users\bway\documents\visual studio 2015\Projects\Gather Game\Gather Game\obj\Debug\Gather_Game.GatherGameMain.resources
+C:\Users\bway\documents\visual studio 2015\Projects\Gather Game\Gather Game\obj\Debug\Gather_Game.TraderForm.resources
+C:\Users\bway\documents\visual studio 2015\Projects\Gather Game\Gather Game\obj\Debug\Gather_Game.FoodTradeForm.resources
+C:\Users\bway\documents\visual studio 2015\Projects\Gather Game\Gather Game\obj\Debug\Gather_Game.WoodTradeForm.resources
+C:\Users\bway\documents\visual studio 2015\Projects\Gather Game\Gather Game\obj\Debug\Gather_Game.StoneTradeForm.resources
+C:\Users\bway\documents\visual studio 2015\Projects\Gather Game\Gather Game\obj\Debug\Gather_Game.ItemShop.resources
