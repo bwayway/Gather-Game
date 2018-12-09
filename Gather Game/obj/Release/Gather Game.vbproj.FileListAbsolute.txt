@@ -1,0 +1,16 @@
+C:\Users\Brendan\source\repos\Gather Game\Gather Game\bin\Release\Gather Game.exe.config
+C:\Users\Brendan\source\repos\Gather Game\Gather Game\bin\Release\Gather Game.exe
+C:\Users\Brendan\source\repos\Gather Game\Gather Game\bin\Release\Gather Game.pdb
+C:\Users\Brendan\source\repos\Gather Game\Gather Game\bin\Release\Gather Game.xml
+C:\Users\Brendan\source\repos\Gather Game\Gather Game\obj\Release\Gather_Game.ItemShop.resources
+C:\Users\Brendan\source\repos\Gather Game\Gather Game\obj\Release\Gather_Game.StoneTradeForm.resources
+C:\Users\Brendan\source\repos\Gather Game\Gather Game\obj\Release\Gather_Game.WoodTradeForm.resources
+C:\Users\Brendan\source\repos\Gather Game\Gather Game\obj\Release\Gather_Game.GatherGameMain.resources
+C:\Users\Brendan\source\repos\Gather Game\Gather Game\obj\Release\Gather_Game.TraderForm.resources
+C:\Users\Brendan\source\repos\Gather Game\Gather Game\obj\Release\Gather_Game.FoodTradeForm.resources
+C:\Users\Brendan\source\repos\Gather Game\Gather Game\obj\Release\Gather_Game.Resources.resources
+C:\Users\Brendan\source\repos\Gather Game\Gather Game\obj\Release\Gather Game.vbproj.GenerateResource.cache
+C:\Users\Brendan\source\repos\Gather Game\Gather Game\obj\Release\Gather Game.vbproj.CoreCompileInputs.cache
+C:\Users\Brendan\source\repos\Gather Game\Gather Game\obj\Release\Gather Game.exe
+C:\Users\Brendan\source\repos\Gather Game\Gather Game\obj\Release\Gather Game.xml
+C:\Users\Brendan\source\repos\Gather Game\Gather Game\obj\Release\Gather Game.pdb
